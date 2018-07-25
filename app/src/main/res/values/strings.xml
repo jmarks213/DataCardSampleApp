@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SampleApp</string>
+
+    <string name="main_activity_label">MainActivity</string>
+    <string name="other_activity_label">Other Activity</string>
+    <string name="account_activity_label">Account Activity</string>
+    <string name="build_activity_label">Build Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
